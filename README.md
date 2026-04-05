@@ -63,22 +63,22 @@ If you want 2 cards instead of 4, delete a row.
 <div align="center">
   <img
     alt="Pinned project"
-    src="https://github-readme-stats-eight-theta.vercel.app/api/pin/?username=ShubhamRaz&repo=payroll&theme=github_dark&hide_border=true"
+    src="https://github-readme-stats-eight-theta.vercel.app/api/pin/?username=ShubhamRaz&repo=payroll&theme=github_dark&hide_border=true&bg_color=0d1117&title_color=58a6ff&text_color=c9d1d9&icon_color=79c0ff"
   />
   <img
     alt="Pinned project"
-    src="https://github-readme-stats-eight-theta.vercel.app/api/pin/?username=ShubhamRaz&repo=ecovision&theme=github_dark&hide_border=true"
+    src="https://github-readme-stats-eight-theta.vercel.app/api/pin/?username=ShubhamRaz&repo=ecovision&theme=github_dark&hide_border=true&bg_color=0d1117&title_color=58a6ff&text_color=c9d1d9&icon_color=79c0ff"
   />
 </div>
 
 <div align="center">
   <img
     alt="Pinned project"
-    src="https://github-readme-stats-eight-theta.vercel.app/api/pin/?username=ShubhamRaz&repo=DigitalHealthCare&theme=github_dark&hide_border=true"
+    src="https://github-readme-stats-eight-theta.vercel.app/api/pin/?username=ShubhamRaz&repo=DigitalHealthCare&theme=github_dark&hide_border=true&bg_color=0d1117&title_color=58a6ff&text_color=c9d1d9&icon_color=79c0ff"
   />
   <img
     alt="Pinned project"
-    src="https://github-readme-stats-eight-theta.vercel.app/api/pin/?username=ShubhamRaz&repo=mlproject&theme=github_dark&hide_border=true"
+    src="https://github-readme-stats-eight-theta.vercel.app/api/pin/?username=ShubhamRaz&repo=mlproject&theme=github_dark&hide_border=true&bg_color=0d1117&title_color=58a6ff&text_color=c9d1d9&icon_color=79c0ff"
   />
 </div>
 
@@ -90,12 +90,12 @@ If you want 2 cards instead of 4, delete a row.
   <img
     height="165"
     alt="GitHub stats"
-    src="https://github-readme-stats-eight-theta.vercel.app/api?username=ShubhamRaz&show_icons=true&theme=github_dark&hide_border=true&rank_icon=github"
+    src="https://github-readme-stats-eight-theta.vercel.app/api?username=ShubhamRaz&show_icons=true&theme=github_dark&hide_border=true&rank_icon=github&bg_color=0d1117&title_color=58a6ff&text_color=c9d1d9&icon_color=79c0ff"
   />
   <img
     height="165"
     alt="Top languages"
-    src="https://github-readme-stats-eight-theta.vercel.app/api/top-langs/?username=ShubhamRaz&layout=compact&theme=github_dark&hide_border=true"
+    src="https://github-readme-stats-eight-theta.vercel.app/api/top-langs/?username=ShubhamRaz&layout=compact&theme=github_dark&hide_border=true&bg_color=0d1117&title_color=58a6ff&text_color=c9d1d9"
   />
 </div>
 
