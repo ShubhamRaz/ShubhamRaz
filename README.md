@@ -83,7 +83,6 @@ How it works:
 </p>
 -->
 
-<!-- Optional: contribution snake (requires the workflow file)
 <p align="center">
   <picture>
     <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/ShubhamRaz/ShubhamRaz/output/github-contribution-grid-snake-dark.svg" />
@@ -91,4 +90,11 @@ How it works:
     <img alt="github contribution snake" src="https://raw.githubusercontent.com/ShubhamRaz/ShubhamRaz/output/github-contribution-grid-snake.svg" />
   </picture>
 </p>
--->
+
+<p align="center">
+  <picture>
+    <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/ShubhamRaz/ShubhamRaz/output/github-contribution-grid-snake-dark.svg" />
+    <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/ShubhamRaz/ShubhamRaz/output/github-contribution-grid-snake.svg" />
+    <img alt="github contribution snake" src="https://raw.githubusercontent.com/ShubhamRaz/ShubhamRaz/output/github-contribution-grid-snake.svg" />
+  </picture>
+</p>
