@@ -15,12 +15,12 @@ Usage:
 
 <div align="center">
   <img
-    src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=22&duration=2600&pause=900&color=00E5FF&center=true&vCenter=true&width=650&lines=Hi%2C+I%E2%80%99m+Shubham+Raz;DevOps+%2B+MLOps+%7C+Systems+Builder;I+ship+reliable+infra+and+production+ML"
+    src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=22&duration=2600&pause=900&color=00E5FF&center=true&vCenter=true&width=650&lines=Hi%2C+I%E2%80%99m+Shubham+Raj;DevOps+%2B+MLOps+%7C+Systems+Builder;I+ship+reliable+infra+and+production+ML"
     alt="Typing introduction"
   />
 </div>
 
-<h1 align="center">Shubham Raz</h1>
+<h1 align="center">Shubham Raj</h1>
 
 <div align="center">
   <a href="https://github.com/ShubhamRaz">github.com/ShubhamRaz</a>
