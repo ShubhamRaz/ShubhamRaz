@@ -125,19 +125,6 @@ philosophy: "Automate once, monitor continuously, sleep soundly."
 
 <br />
 
-#### 📈 Real-Time Contribution Activity
-<div align="center">
-  <a href="https://github.com/ShubhamRaz">
-    <img
-      alt="Shubham's Contribution Activity"
-      width="100%"
-      src="https://ghchart.rshah.org/00e5ff/ShubhamRaz"
-    />
-  </a>
-</div>
-
-<br />
-
 #### 📑 Profile & Commit Breakdown
 <div align="center">
   <img
