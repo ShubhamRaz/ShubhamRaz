@@ -123,30 +123,22 @@ philosophy: "Automate once, monitor continuously, sleep soundly."
   />
 </div>
 
-<div align="center">
-  <img
-    height="160"
-    alt="GitHub streak"
-    src="https://streak-stats.demolab.com?user=ShubhamRaz&theme=tokyonight&hide_border=true&background=0d1117&ring=00e5ff&fire=00e5ff&currStreakLabel=00e5ff&sideNums=c9d1d9&sideLabels=c9d1d9&dates=8b949e"
-  />
-</div>
-
 <br />
 
-#### 📈 Real-Time Activity Graph
+#### 📈 Real-Time Contribution Activity
 <div align="center">
   <a href="https://github.com/ShubhamRaz">
     <img
-      alt="Activity graph"
-      width="95%"
-      src="https://github-readme-activity-graph.vercel.app/graph?username=ShubhamRaz&theme=github-compact&hide_border=true"
+      alt="Shubham's Contribution Activity"
+      width="100%"
+      src="https://ghchart.rshah.org/00e5ff/ShubhamRaz"
     />
   </a>
 </div>
 
 <br />
 
-#### 📑 Profile Summary
+#### 📑 Profile & Commit Breakdown
 <div align="center">
   <img
     alt="Profile Details"
@@ -155,6 +147,13 @@ philosophy: "Automate once, monitor continuously, sleep soundly."
   <img
     alt="Repos per Language"
     src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=ShubhamRaz&theme=github_dark"
+  />
+</div>
+
+<div align="center">
+  <img
+    alt="Most Commit Language"
+    src="https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=ShubhamRaz&theme=github_dark"
   />
 </div>
 
