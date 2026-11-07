@@ -135,11 +135,13 @@ philosophy: "Automate once, monitor continuously, sleep soundly."
 
 #### 📈 Real-Time Activity Graph
 <div align="center">
-  <img
-    alt="Activity graph"
-    width="95%"
-    src="https://github-readme-activity-graph.vercel.app/graph?username=ShubhamRaz&theme=tokyo-night&bg_color=0d1117&color=00e5ff&line=00e5ff&point=58a6ff&area=true&hide_border=true"
-  />
+  <a href="https://github.com/ShubhamRaz">
+    <img
+      alt="Activity graph"
+      width="95%"
+      src="https://github-readme-activity-graph.vercel.app/graph?username=ShubhamRaz&theme=github-compact&hide_border=true"
+    />
+  </a>
 </div>
 
 <br />
@@ -153,63 +155,6 @@ philosophy: "Automate once, monitor continuously, sleep soundly."
   <img
     alt="Repos per Language"
     src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=ShubhamRaz&theme=github_dark"
-  />
-</div>
-
----
-
-### 📌 Featured Repositories
-
-<div align="center">
-  <a href="https://github.com/ShubhamRaz/payroll">
-    <img
-      alt="payroll repository"
-      src="https://github-readme-stats-eight-theta.vercel.app/api/pin/?username=ShubhamRaz&repo=payroll&theme=github_dark&hide_border=true&bg_color=0d1117&title_color=00e5ff&text_color=c9d1d9&icon_color=00e5ff"
-    />
-  </a>
-  <a href="https://github.com/ShubhamRaz/ecovision">
-    <img
-      alt="ecovision repository"
-      src="https://github-readme-stats-eight-theta.vercel.app/api/pin/?username=ShubhamRaz&repo=ecovision&theme=github_dark&hide_border=true&bg_color=0d1117&title_color=00e5ff&text_color=c9d1d9&icon_color=00e5ff"
-    />
-  </a>
-</div>
-
-<div align="center">
-  <a href="https://github.com/ShubhamRaz/DigitalHealthCare">
-    <img
-      alt="DigitalHealthCare repository"
-      src="https://github-readme-stats-eight-theta.vercel.app/api/pin/?username=ShubhamRaz&repo=DigitalHealthCare&theme=github_dark&hide_border=true&bg_color=0d1117&title_color=00e5ff&text_color=c9d1d9&icon_color=00e5ff"
-    />
-  </a>
-  <a href="https://github.com/ShubhamRaz/mlproject">
-    <img
-      alt="mlproject repository"
-      src="https://github-readme-stats-eight-theta.vercel.app/api/pin/?username=ShubhamRaz&repo=mlproject&theme=github_dark&hide_border=true&bg_color=0d1117&title_color=00e5ff&text_color=c9d1d9&icon_color=00e5ff"
-    />
-  </a>
-</div>
-
----
-
-### 🐍 Real-Time Contribution Snake
-
-<div align="center">
-  <picture>
-    <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/ShubhamRaz/ShubhamRaz/output/github-contribution-grid-snake-dark.svg" />
-    <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/ShubhamRaz/ShubhamRaz/output/github-contribution-grid-snake.svg" />
-    <img alt="GitHub contribution snake" src="https://raw.githubusercontent.com/ShubhamRaz/ShubhamRaz/output/github-contribution-grid-snake.svg" />
-  </picture>
-</div>
-
----
-
-### 💬 Daily Dev Dose
-
-<div align="center">
-  <img
-    alt="Random Dev Joke"
-    src="https://readme-jokes.vercel.app/api?theme=tokyonight&bgColor=0d1117&textColor=c9d1d9&qColor=00e5ff&hideBorder=true"
   />
 </div>
 
